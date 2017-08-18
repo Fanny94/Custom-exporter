@@ -1,0 +1,64 @@
+﻿  Write.cpp
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(29): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(83): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(92): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(98): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(106): warning C4018: '<': signed/unsigned mismatch
+d:\importerexporter\fbx-exporter\fbx importer.exporter\write.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Compiling...
+  FbxObjects.cpp
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(200): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(201): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(202): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(248): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(249): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(268): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(269): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(304): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(305): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(306): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(330): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(331): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(332): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(280): warning C4101: 'TanEle': unreferenced local variable
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(379): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(380): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(381): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(384): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(385): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(386): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(389): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(390): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(391): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(394): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(395): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(396): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(406): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(407): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(408): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(410): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(411): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(412): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(418): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(478): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(499): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(518): warning C4101: 'sizeWeights': unreferenced local variable
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(607): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(703): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(713): warning C4244: 'initializing': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(731): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(732): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(742): warning C4244: 'initializing': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(761): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(762): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+d:\importerexporter\fbx-exporter\fbx importer.exporter\fbxobjects.cpp(772): warning C4244: 'initializing': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'fbxsdk.lib'
