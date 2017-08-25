@@ -2,7 +2,7 @@
 
 void Write::writeBinary()
 {
-	ofstream binaryFile("customFormatTest.dat", ios::out | ios::binary);
+	ofstream binaryFile("BinaryDataShip.dat", ios::out | ios::binary);
 
 	binaryFile.write((const char*)&MainH.MeshCount, sizeof(unsigned int));
 	binaryFile.write((const char*)&MainH.MaterialCount, sizeof(unsigned int));

@@ -45,7 +45,7 @@ FbxMesh* FBX::LoadScene(FbxManager* PManager, FbxScene* PScene)
 
 	FbxMesh* MyMesh = nullptr;
 
-	bool ImporterStat = MyImporter->Initialize("C:/Users/funne/OneDrive/Dokument/FBX-Exporter/fbx_files/test.fbx", -1, PManager->GetIOSettings());
+	bool ImporterStat = MyImporter->Initialize("../fbx_files/Ship1.fbx", -1, PManager->GetIOSettings());
 
 	if(!ImporterStat) //If the importer can't be initialized.
 	{
