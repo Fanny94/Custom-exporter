@@ -418,6 +418,9 @@ void FBX::ImportMaterial(FbxMesh* PMesh, MaterialHeader* OutMaterial)
 			FbxSurfaceMaterial* Mat = PMesh->GetNode()->GetMaterial(MatIndex);
 		
 			FbxString MatName = Mat->GetName();
+			string name;
+			FbxNode* n = PMesh->GetNode();
+			name = n->GetName();
 
 			//If material is phong
 			//If there is an error ex. "UNRESOLVED EXTERNAL" that names ClassId as wrong, change "libfbxsdk.lib" to "libfbxsdk-md.lib"

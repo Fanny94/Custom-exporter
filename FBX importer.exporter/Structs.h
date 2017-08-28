@@ -29,15 +29,12 @@ struct Skinning
 
 struct MeshHeader
 {
+	unsigned int VertexCount;
+	unsigned int MaterialID;
+	unsigned int ObjectID;
+	unsigned int ParentID;
 	char MeshName[256] = "";
-	unsigned int ObjectID = 0;
-	unsigned int ParentID = 0;
-
-	unsigned int VertexCount = 0;
-	unsigned int MaterialID = 0;
-
-	unsigned int AttributeCount = 0;
-
+	unsigned int AttributeCount;
 	float Translation[3] = { 0.0, 0.0, 0.0 };
 	float Rotation[3] = { 0.0, 0.0, 0.0 };
 	float Scale[3] = { 1.0, 1.0, 1.0 };
@@ -70,10 +67,6 @@ struct Skeleton
 
 struct MaterialHeader
 {
-	unsigned int ID;
-	unsigned int Count = 0;
-	char MatName[256];
-
 	float Diffuse[3];
 	float Specular[3];
 	float Ambient[3];

@@ -6,10 +6,10 @@ void Write::writeBinary()
 
 	binaryFile.write((const char*)&MainH.MeshCount, sizeof(unsigned int));
 	binaryFile.write((const char*)&MainH.MaterialCount, sizeof(unsigned int));
-	binaryFile.write((const char*)&MainH.LightCount, sizeof(unsigned int));
-	binaryFile.write((const char*)&MainH.CameraCount, sizeof(unsigned int));
-	binaryFile.write((const char*)&MainH.SkeletonAnimationCount, sizeof(unsigned int));
-	binaryFile.write((const char*)&MainH.MorphCount, sizeof(unsigned int));
+	//binaryFile.write((const char*)&MainH.LightCount, sizeof(unsigned int));
+	//binaryFile.write((const char*)&MainH.CameraCount, sizeof(unsigned int));
+	//binaryFile.write((const char*)&MainH.SkeletonAnimationCount, sizeof(unsigned int));
+	//binaryFile.write((const char*)&MainH.MorphCount, sizeof(unsigned int));
 
 	for (int i = 0; i < MainH.MeshCount; i++)
 	{
