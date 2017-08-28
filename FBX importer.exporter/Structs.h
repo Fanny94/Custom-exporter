@@ -18,7 +18,6 @@ struct VertexHeader
 	float UV[2];
 	float Tan[3] = { 0.0, 0.0, 0.0 };
 	float BiTan[3] = { 0.0, 0.0, 0.0 };
-
 };
 
 struct Skinning
@@ -62,7 +61,6 @@ struct Skeleton
 	unsigned int numberOfJoints = 0; //The number of Jointheaders
 	unsigned int numberOfSkinWeights = 0; /*as big as the number of control points, 
 									  	containing weightdata for each control point*/
-
 };
 
 struct MaterialHeader
@@ -104,12 +102,6 @@ struct DirectionalLight
 	float Color[3];
 	float Position[3];
 	float Rotation[3];
-};
-
-struct IndexHeader
-{
-	unsigned int Index;
-	unsigned int VertexIndex;
 };
 
 struct CameraHeader
