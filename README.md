@@ -9,5 +9,6 @@ The custom file format supports models created with Maya Autodesk; meshes includ
 A fbx file that contains a test mesh can be found (test.fbx) in the project's fbx_files folder. After compiling the code, a .data file will be created. 
 
 Limations:
-For this project to be compiled FBX SDK 2016.1 has to be installed on the computer.
-The data that is exported into the custom format can only send one mesh and one texture per file.
+- For this project to be compiled FBX SDK 2016.1 has to be installed on the computer.
+- The custom format can only send one model and one texture per file.
+- This exporter is specifically created for the importer of the ERIN project, see the link: https://github.com/Fanny94/ERIN. 
